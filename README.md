@@ -1,9 +1,14 @@
 <h1 align="center">Hello there 👋, I'm Michael</h1>
 <h3 align="center">A junior year student at University of Central Florida - Go Knight! </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacklvd&label=Profile%20views&color=0e75b6&style=flat" alt="jacklvd" /> </p>
+## 💻 I'm Currently Learning 
+University of Central Florida
+- COP 3503 - Computer Science II (Algorithm Analysis)
+- MAC 2313 - Calculus III
+- PHY 2048 - Physic for Engineer I
 
-- 🌱 I’m currently learning **ExpressJS, SwiftUI, React, SQL**
+Outside of class:
+**ExpressJS, SwiftUI, React, SQL**
 
 - 💬 Ask me about **React,Express, Mobile Development**
 
