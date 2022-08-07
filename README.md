@@ -8,13 +8,13 @@ University of Central Florida
 - PHY 2048 - Physic for Engineer I
 
 Outside of class:
-**ExpressJS, SwiftUI, React, SQL**
+- Currently learning: **ExpressJS,UIKit, SwiftUI, React, SQL**
 
 - 💬 Ask me about **React,Express, Mobile Development**
 
 - 📫 How to reach me **michaelhabao@gmail.com** / **brandonha02@knights.ucf.edu**
 
-- ⚡ Fun fact **I enjoy cooking but not washing dishes**
+- ⚡ Fun fact **I enjoy cooking, reading and travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +25,7 @@ Outside of class:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" alt="css3" width="40" height="40"/> </a> 
