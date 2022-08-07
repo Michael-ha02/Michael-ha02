@@ -39,6 +39,7 @@ Outside of class:
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
    <a href="https://docs.swift.org/swift-book/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+    <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://img.stackshare.io/service/6406/qLPJL1NZ.jpg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 
