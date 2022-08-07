@@ -36,8 +36,6 @@ Outside of class:
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180325/kpq/kisspng-python-logo-programmer-fierce-python-cliparts-5ab7bde1954e21.4104715915219911376116.jpg" alt="python" width="40" height="40"/> </a> 
    <a href="https://docs.swift.org/swift-book/" target="_blank" rel="noreferrer"> <img src="https://c.neh.tw/thumb/f/720/e0b5b224c1034dc084a7.jpg" alt="swift" width="40" height="40"/> </a> 
-      <a href="https://docs.swift.org/swift-book/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="swift" width="40" height="40"/> </a> 
-   
           
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
