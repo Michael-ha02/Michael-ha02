@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Michael</h1>
-<h3 align="center">A passionate undergrad software engineer and software developer</h3>
+<h3 align="center">A junior year student at University of Central Florida - Go Knight! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacklvd&label=Profile%20views&color=0e75b6&style=flat" alt="jacklvd" /> </p>
 
