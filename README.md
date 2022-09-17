@@ -5,10 +5,10 @@
 University of Central Florida
 - COP 3503 - Computer Science II (Algorithm Analysis)
 - MAC 2313 - Calculus III
-- PHY 2048 - Physic for Engineer I
+- PHY 2048 - Physic I for Engineer 
 
 Outside of class:
-- Currently learning: **ExpressJS,UIKit, SwiftUI, React, SQL**
+- Currently learning: **FastAPI, ExpressJS,UIKit, SwiftUI, React, SQL**
 
 - 💬 Ask me about **React,Express, Mobile Development**
 
