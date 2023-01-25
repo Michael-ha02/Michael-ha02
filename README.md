@@ -3,9 +3,9 @@
 
 ## 💻 I'm Currently Learning 
 University of Central Florida
-- COP 3503 - Computer Science II (Algorithm Analysis)
-- MAC 2313 - Calculus III
-- PHY 2048 - Physic I for Engineer 
+- COP 4516: Contest Problem Solving 
+- COP 4331 - Software Engineer
+- PHY 2049 - Physic II for Engineer 
 
 Outside of class:
 - Currently learning: **FastAPI, ExpressJS,UIKit, SwiftUI, React, SQL**
