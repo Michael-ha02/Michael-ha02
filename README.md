@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Michael</h1>
-<h3 align="center">A junior year student at University of Central Florida - Go Knight! </h3>
+<h3 align="center">A student at University of Central Florida - Go Knight! </h3>
 
 ## 💻 I'm Currently Learning 
 University of Central Florida
