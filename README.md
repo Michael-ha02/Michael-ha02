@@ -8,9 +8,9 @@ University of Central Florida
 - PHY 2049 - Physic II for Engineer 
 
 Outside of class:
-- Currently learning: **FastAPI, ExpressJS,UIKit, SwiftUI, React, SQL**
+- Currently learning: **FastAPI, ExpressJS, UIKit, SwiftUI, React, SQL**
 
-- 💬 Ask me about **React,Express, Mobile Development**
+- 💬 Ask me about **React, Express, Mobile Development**
 
 - 📫 How to reach me **michaelhabao@gmail.com** or <a href="https://michael-ha02.github.io/"> my website </a>
 
