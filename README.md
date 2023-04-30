@@ -12,7 +12,7 @@ Outside of class:
 
 - 💬 Ask me about **React,Express, Mobile Development**
 
-- 📫 How to reach me **michaelhabao@gmail.com** or <a href="https://michael-ha02.github.io/" my website </a>
+- 📫 How to reach me **michaelhabao@gmail.com** or <a href="https://michael-ha02.github.io/"> my website </a>
 
 - ⚡ Fun fact **I enjoy cooking, reading and travelling**
 
