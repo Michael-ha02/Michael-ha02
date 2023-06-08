@@ -8,7 +8,7 @@ University of Central Florida
 - PHY 2049 - Physic II for Engineer 
 
 Outside of class:
-- Currently learning: **FastAPI, ExpressJS, UIKit, SwiftUI, React, SQL**
+- Currently learning: **FastAPI, ExpressJS, UIKit, SwiftUI, React, Angular, SQL**
 
 - 💬 Ask me about **React, Express, Mobile Development**
 
