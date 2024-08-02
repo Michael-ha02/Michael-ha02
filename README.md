@@ -3,9 +3,9 @@
 
 ## 💻 I'm Currently Learning 
 University of Central Florida
-- COP 4516: Contest Problem Solving 
-- COP 4331 - Software Engineer
-- PHY 2049 - Physic II for Engineer 
+- COP 4600: Operation System
+- COP 4935: Senior Design II
+- CEN 4360: Mobile Development
 
 Outside of class:
 - Currently learning: **FastAPI, ExpressJS, UIKit, SwiftUI, React, Angular, SQL**
