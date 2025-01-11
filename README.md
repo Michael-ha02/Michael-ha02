@@ -1,11 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Michael</h1>
-<h3 align="center">A student at University of Central Florida - Go Knight! </h3>
-
-## 💻 I'm Currently Learning 
-University of Central Florida
-- COP 4600: Operation System
-- COP 4935: Senior Design II
-- CEN 4360: Mobile Development
+<h3 align="center">Alumni from  University of Central Florida - Go Knight! </h3>
 
 Outside of class:
 - Currently learning: **FastAPI, ExpressJS, UIKit, SwiftUI, React, Angular, SQL**
